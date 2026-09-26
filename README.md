@@ -1,6 +1,7 @@
 # SaaS Customer Value & Acquisition Analysis (LTV:CAC)
 
 ## 📌 Project Overview
+![Dashboard Overview](https://github.com/Adedeji412/saas-customer-value-analysis/blob/main/Screenshot%202026-09-26%20173232.png)
 This project analyzes the customer lifecycle, acquisition efficiency, and revenue health of a SaaS business. By combining Excel for data auditing, MySQL for relational data modeling, and Power BI for visualization, I built an end-to-end analytics workflow to calculate Customer Lifetime Value (LTV), Customer Acquisition Cost (CAC), and churn dynamics.
 
 The primary objective is to evaluate whether the business is acquiring customers efficiently and retaining them long enough to drive sustainable Monthly Recurring Revenue (MRR).
